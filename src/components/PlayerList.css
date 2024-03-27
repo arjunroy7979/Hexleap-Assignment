@@ -1,0 +1,26 @@
+.card {
+    width: 15rem;
+    padding: 0.5rem;
+    display: inline-block !important;
+    margin: 0.4rem;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+
+.card-body-color {
+    background: #F7F7F8;
+    padding: 0.5rem;
+    display: flex;
+    gap: 3rem;
+    font-size: 0.9rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .card {
+        width: 100%;
+        padding: 0.5rem;
+    }
+}

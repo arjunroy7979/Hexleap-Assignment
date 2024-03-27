@@ -1,0 +1,7 @@
+.card {
+    width: 13rem;
+    font-size: 0.8rem;
+    padding: 0.6rem;
+    display: inline-block !important;
+    margin: 0.4rem;
+}

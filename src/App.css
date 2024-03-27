@@ -1,0 +1,18 @@
+.dark-theme {
+    background: #292B32 !important;
+    color: #fff;
+}
+
+.light-theme {
+    color: #000;
+    background: #F7F7F8 !important;
+}
+
+.--btn {
+    position: fixed;
+    top: 2%;
+    border-radius: 50% !important;
+    width: 35px;
+    height: 35px;
+    right: 0.8rem;
+}
